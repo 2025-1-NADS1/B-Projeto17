@@ -22,12 +22,7 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+Este projeto é um sistema de simulação para uma casa inteligente, desenvolvido com Windows Forms em C#. O objetivo principal é permitir a visualização e o controle de dispositivos em diferentes cômodos da casa, como luzes e equipamentos.
 
 ## 🛠 Estrutura de pastas
 
